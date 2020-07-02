@@ -1,0 +1,30 @@
+/* stlyesheet for ch.2 practice project
+	Author: Nylek	6/10/2020 */
+
+body {
+	background-color: cyan;
+}
+
+h1 {
+	color: rgb(255, 0, 0);
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	
+}
+
+div {
+	background-color: midnightblue;
+	width:60%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#div2 {
+	width: 40%;
+	background-color: salmon;
+	text-align: right;
+	margin: 0;
+	
+
+}
